@@ -40,6 +40,7 @@ Version Control     → Git, GitHub
   <tr>
     <td style="padding: 10px; text-align: center; vertical-align: top; border: 0;">
       <h4 style="color: #c9d1d9; margin-bottom: 5px;">Minhas Estatísticas</h4>
+      <img src="https://github-readme-stats.vercel.app/api?username=CamilaSantos&hide_border=true&show_icons=true&theme=omni&include_all_commits=true&count_private=true" alt="Camila's GitHub Stats" style="max-width: 100%; height: auto;">
     </td>
     <td style="padding: 10px; text-align: center; vertical-align: top; border: none;">
       <h4 style="color: #c9d1d9; margin-bottom: 5px;">Histórico de Contribuições</h4>

@@ -42,18 +42,9 @@ Version Control     → Git, GitHub
       <h4 style="color: #c9d1d9; margin-bottom: 5px;">Minhas Estatísticas</h4>
       <img src="https://github-readme-stats.vercel.app/api?username=CamilaSantos&hide_border=true&show_icons=true&theme=omni&include_all_commits=true&count_private=true" alt="Camila's GitHub Stats" style="max-width: 100%; height: auto;">
     </td>
-    <td style="padding: 10px; text-align: center; vertical-align: top; border: none;">
-      <h4 style="color: #c9d1d9; margin-bottom: 5px;">Histórico de Contribuições</h4>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=CamilaSantos&theme=carbonfox&hide_border=true" alt="GitHub Streak Stats" style="max-width: 100%; height: auto;">
-    </td>
-  </tr>
-</table>
-
-<table style="width:100%; border-collapse: collapse; border-spacing: 0; margin-top: 20px;">
-  <tr>
-    <td style="padding: 10px; text-align: center; vertical-align: top; border: none;">
+    <td style="padding: 10px; text-align: center; vertical-align: top; border: 0;">
       <h4 style="color: #c9d1d9; margin-bottom: 5px;">Tecnologias Mais Utilizadas</h4>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaSantos&layout=pie&theme=one_dark_pro&hide_border=true&hide_title=true" alt="Tecnologias mais utilizadas" style="max-width: 100%; height: auto;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaSantos&layout=compact&theme=omni&hide_border=true&hide_title=true" alt="Tecnologias mais utilizadas" style="max-width: 100%; height: auto;">
     </td>
   </tr>
 </table>
